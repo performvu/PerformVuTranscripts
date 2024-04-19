@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Open Studios Podcast Transcript</title>
+<style>
+  .host-info {
+    font-weight: bold;
+  }
+  .guest-info {
+    font-style: italic;
+  }
+  .host, .guest {
+    margin-bottom: 20px;
+  }
+</style>
+</head>
+<body>
+
+<div class="host-info">Asia Stewart, podcast host.</div>
+<div class="guest-info">Lisette Ros, podcast guest.</div>
+
+<div class="host">
+  <p><span class="host-info">Asia Stewart:</span> Welcome to Open Studios, a podcast brought to you by PerformVu, the digital home for experimental performance. My name is Asia Stewart. I'm a performance artist and the Founding Artistic Director of PerformVu, and I'll also be your host. In every episode, I'll be sitting down with a different artist to take a virtual step inside their studio to learn more about their practice and motivations.</p>
+
+  <p>And in this episode, I have the pleasure of speaking with Lisette Ros. Lisette investigates daily conventions and quotidian behaviors. She approaches her performances as experiments or opportunities to research and collect data about her body, all in the attempt to better understand her fluid queer identity and consider the question, “who is she in the midst of it all?”</p>
+  
+  <!-- More host dialogue goes here -->
+</div>
+
+<div class="guest">
+  <p><span class="guest-info">Lisette Ros:</span> Thank you. Wow.</p>
+</div>
+
+<!-- More dialogue between host and guest goes here -->
+
+</body>
+</html>
